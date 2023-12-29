@@ -11,8 +11,10 @@ We create a ROS Package where we:
 - Read the ArUco marker's id and obtain the waypoint turtlebot needs to follow from the params.yaml file.
 - Find the parts w.r.t their part color number and part type number and retreive their positions accordingly.
 - The bot will initialize in the RVIZ environment and the waypoints generate in the order.
+- The turtle bot will navigate around the map sequentially.
 
 ![image](https://github.com/AbhinavB7/Turtlebot-Navigation-using-FollowWaypoint-Navigation-in-ROS2/assets/87815926/65c26274-c2f0-49e1-bb1b-129385f6951b)
+
 RVIZ after initialization of the robot.
 
 
