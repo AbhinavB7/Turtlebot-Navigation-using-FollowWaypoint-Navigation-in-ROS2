@@ -25,4 +25,3 @@ We create a ROS Package where we:
 RVIZ after initialization of the robot.
 
 
-Contact me for the code or the package.
